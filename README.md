@@ -1,29 +1,17 @@
 # README #
+#this site model is taken from a site: demo_weebpal.com/ishopping#
 
-This README would normally document whatever steps are necessary to get your application up and running.
+#the site's requirement#
 
-### What is this repository for? ###
+#A front page for advert,news update,and information links#
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+#setting up of the products page where products can be displayed just like on the model page#
 
-### How do I get set up? ###
+#A add to cart module where products can be added to cart and proceeed to checkout#
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+#the cart can be linked to an order form#
 
-### Contribution guidelines ###
+#a link  sent to the customer's email for transaction verification upon sent order form#
 
-* Writing tests
-* Code review
-* Other guidelines
+#The black coloured block at the top and bottom be changed to plant green colour #
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
