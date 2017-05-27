@@ -62,12 +62,12 @@
 .site-name a:hover,
 .site-name a:focus,
 .site-name a:active {
-  color: #007fc8;
+  color: #C34416;
   text-decoration: none;
 }
 
 .site-slogan {
-  color: #999;
+  color: #fff;
   font-size: 1em;
   font-weight: 400;
 }
@@ -193,7 +193,7 @@
 }
 
 #panel-second-wrapper .container {
-  color: #888;
+  color: #fff;
   padding: 20px 0;
 }
 
@@ -209,7 +209,7 @@
 }
 
 #panel-second-wrapper a {
-  color: #888;
+  color: #999;
   text-decoration: none;
 }
 
