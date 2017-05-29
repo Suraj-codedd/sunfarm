@@ -1,3 +1,6 @@
+#may 29th 17 #
+#site update#
+#two branches created : develeop and slave branches#
 # README #
 #this site model is taken from a site: demo_weebpal.com/ishopping#
 
